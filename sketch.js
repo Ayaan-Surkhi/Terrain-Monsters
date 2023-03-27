@@ -134,7 +134,7 @@ function draw() {
         scoreElem.style.display = 'flex';
         scoreElem.innerHTML = `
         Your Score was: ${score}
-        <a href="/game.html">Play again</a>
+        <a href="/Terrain-Monsters/game.html">Play again</a>
         `;
     }
 }
